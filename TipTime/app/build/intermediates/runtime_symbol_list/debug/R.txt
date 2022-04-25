@@ -1211,6 +1211,9 @@ int color background_floating_material_light 0x7f05001e
 int color background_material_dark 0x7f05001f
 int color background_material_light 0x7f050020
 int color black 0x7f050021
+int color blue 0x7f050253
+int color blue_dark 0x7f050254
+int color blue_light 0x7f050255
 int color bright_foreground_disabled_material_dark 0x7f050022
 int color bright_foreground_disabled_material_light 0x7f050023
 int color bright_foreground_inverse_material_dark 0x7f050024
@@ -1270,6 +1273,9 @@ int color error_color_material_dark 0x7f050059
 int color error_color_material_light 0x7f05005a
 int color foreground_material_dark 0x7f05005b
 int color foreground_material_light 0x7f05005c
+int color green 0x7f050256
+int color green_dark 0x7f050257
+int color green_light 0x7f050258
 int color highlighted_text_material_dark 0x7f05005d
 int color highlighted_text_material_light 0x7f05005e
 int color m3_appbar_overlay_color 0x7f05005f
@@ -1748,9 +1754,6 @@ int color primary_text_default_material_dark 0x7f050237
 int color primary_text_default_material_light 0x7f050238
 int color primary_text_disabled_material_dark 0x7f050239
 int color primary_text_disabled_material_light 0x7f05023a
-int color purple_200 0x7f05023b
-int color purple_500 0x7f05023c
-int color purple_700 0x7f05023d
 int color radiobutton_themeable_attribute_color 0x7f05023e
 int color ripple_material_dark 0x7f05023f
 int color ripple_material_light 0x7f050240
@@ -1764,8 +1767,6 @@ int color switch_thumb_material_dark 0x7f050247
 int color switch_thumb_material_light 0x7f050248
 int color switch_thumb_normal_material_dark 0x7f050249
 int color switch_thumb_normal_material_light 0x7f05024a
-int color teal_200 0x7f05024b
-int color teal_700 0x7f05024c
 int color test_color 0x7f05024d
 int color test_mtrl_calendar_day 0x7f05024e
 int color test_mtrl_calendar_day_selected 0x7f05024f

@@ -1,4 +1,4 @@
-#Fri Apr 22 20:34:38 BRT 2022
+#Sun Apr 24 21:19:09 BRT 2022
 base.0=/home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
