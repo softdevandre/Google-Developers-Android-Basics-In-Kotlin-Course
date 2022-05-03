@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/devandre/.gradle/caches/transforms-3/218c26e111db05778e1bf7f241a89fdc/transformed/appcompat-1.4.1/res/values-pt-rBR/values-pt-rBR.xml",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/res/values-pt-rBR/strings.xml",
+                    "source": "/home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/res/values-pt-rBR/strings.xml",
                     "from": {
                         "startLines": "5,2,9,3,6,4,7,8,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

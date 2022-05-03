@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+            "outputFile": "/home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/home/devandre/.gradle/caches/transforms-3/76c9c3aef9b00b1d69139161adeaf2a4/transformed/core-1.7.0/res/values-te/values-te.xml",

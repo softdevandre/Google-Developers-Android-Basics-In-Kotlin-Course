@@ -8,10 +8,18 @@ color green
 color green_dark
 color green_light
 color white
+dimen min_text_height
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_round_up
+drawable ic_service
+drawable ic_store
 id calculate_button
 id cost_of_service
+id cost_of_service_edit_text
+id icon_cost_of_service
+id icon_round_up
+id icon_service_question
 id option_eighteen_percent
 id option_fifteen_percent
 id option_twenty_percent
@@ -32,3 +40,6 @@ string ok_service
 string round_up_tip
 string tip_amount
 style Theme.TipTime
+style Widget.TipTime.CompoundButton.RadioButton
+style Widget.TipTime.CompoundButton.Switch
+style Widget.TipTime.TextView

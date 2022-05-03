@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.databinding:viewbinding:7.1.1] /home/devandre/.gradle/caches/transforms-3/2ec2ca218c733474f92bdae9787fd99f/transformed/viewbinding-7.1.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.7.0] /home/devandre/.gradle/caches/transforms-3/9562af80812b63d241057940422e7a69/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.5.0] /home/devandre/.gradle/caches/transforms-3/5e1783e354b9308a658e1d31bd29f5bf/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
@@ -45,25 +45,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/devandre/.gradle/ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/devandre/.gradle/caches/transforms-3/a65f6f850720cb3a724d2ae535de9652/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/devandre/.gradle/caches/transforms-3/9581b8b52d83bbb1a24c4bc1599cce33/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/devandre/.gradle/caches/transforms-3/720b88f2a1778cc9029af808be8dbaf8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [com.google.android.material:material:1.5.0] /home/devandre/.gradle/caches/transforms-3/5e1783e354b9308a658e1d31bd29f5bf/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] /home/devandre/.gradle/caches/transforms-3/5e1783e354b9308a658e1d31bd29f5bf/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/devandre/.gradle/caches/transforms-3/615ae6affb23e375c30b47f4fc75e0fc/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
@@ -81,37 +81,37 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /home/devandre/.gradle/cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /home/devandre/.gradle/caches/transforms-3/76c9c3aef9b00b1d69139161adeaf2a4/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:11:9-45
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:11:9-45
 activity#com.example.tiptime.MainActivity
-ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.1.1] /home/devandre/.gradle/caches/transforms-3/2ec2ca218c733474f92bdae9787fd99f/transformed/viewbinding-7.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.1.1] /home/devandre/.gradle/caches/transforms-3/2ec2ca218c733474f92bdae9787fd99f/transformed/viewbinding-7.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.7.0] /home/devandre/.gradle/caches/transforms-3/9562af80812b63d241057940422e7a69/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
@@ -194,16 +194,16 @@ MERGED from [androidx.print:print:1.0.0] /home/devandre/.gradle/caches/transform
 MERGED from [androidx.print:print:1.0.0] /home/devandre/.gradle/caches/transforms-3/9581b8b52d83bbb1a24c4bc1599cce33/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/devandre/.gradle/caches/transforms-3/720b88f2a1778cc9029af808be8dbaf8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/devandre/.gradle/caches/transforms-3/720b88f2a1778cc9029af808be8dbaf8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		ADDED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
-		INJECTED from /home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		ADDED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] /home/devandre/.gradle/caches/transforms-3/2f06c75f24fba86574e7b0dcdec9d3e8/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/devandre/.gradle/caches/transforms-3/5c71e5df55af1f375f5c13260f309606/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/devandre/AndroidStudioProjects/Google Developers Android Basics in Kotlin Course/TipTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/devandre/.gradle/caches/transforms-3/73a299b1314f606782e76c17686a3ce1/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

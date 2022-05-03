@@ -2126,6 +2126,7 @@ dimen material_textinput_min_width
 dimen material_time_picker_minimum_screen_height
 dimen material_time_picker_minimum_screen_width
 dimen material_timepicker_dialog_buttons_margin_top
+dimen min_text_height
 dimen mtrl_alert_dialog_background_inset_bottom
 dimen mtrl_alert_dialog_background_inset_end
 dimen mtrl_alert_dialog_background_inset_start
@@ -2462,6 +2463,9 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_round_up
+drawable ic_service
+drawable ic_store
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2643,6 +2647,7 @@ id continuousVelocity
 id coordinator
 id cos
 id cost_of_service
+id cost_of_service_edit_text
 id counterclockwise
 id currentState
 id custom
@@ -2718,7 +2723,10 @@ id homeAsUp
 id honorRequest
 id horizontal_only
 id icon
+id icon_cost_of_service
 id icon_group
+id icon_round_up
+id icon_service_question
 id ifRoom
 id ignore
 id ignoreRequest
@@ -4329,6 +4337,9 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style Widget_TipTime_CompoundButton_RadioButton
+style Widget_TipTime_CompoundButton_Switch
+style Widget_TipTime_TextView
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

@@ -5,10 +5,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
-import android.widget.Switch;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -16,6 +15,9 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.tiptime.R;
+import com.google.android.material.switchmaterial.SwitchMaterial;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -28,7 +30,19 @@ public final class ActivityMainBinding implements ViewBinding {
   public final Button calculateButton;
 
   @NonNull
-  public final EditText costOfService;
+  public final TextInputLayout costOfService;
+
+  @NonNull
+  public final TextInputEditText costOfServiceEditText;
+
+  @NonNull
+  public final ImageView iconCostOfService;
+
+  @NonNull
+  public final ImageView iconRoundUp;
+
+  @NonNull
+  public final ImageView iconServiceQuestion;
 
   @NonNull
   public final RadioButton optionEighteenPercent;
@@ -40,7 +54,7 @@ public final class ActivityMainBinding implements ViewBinding {
   public final RadioButton optionTwentyPercent;
 
   @NonNull
-  public final Switch roundUpSwitch;
+  public final SwitchMaterial roundUpSwitch;
 
   @NonNull
   public final TextView serviceQuestion;
@@ -52,13 +66,19 @@ public final class ActivityMainBinding implements ViewBinding {
   public final TextView tipResult;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button calculateButton,
-      @NonNull EditText costOfService, @NonNull RadioButton optionEighteenPercent,
+      @NonNull TextInputLayout costOfService, @NonNull TextInputEditText costOfServiceEditText,
+      @NonNull ImageView iconCostOfService, @NonNull ImageView iconRoundUp,
+      @NonNull ImageView iconServiceQuestion, @NonNull RadioButton optionEighteenPercent,
       @NonNull RadioButton optionFifteenPercent, @NonNull RadioButton optionTwentyPercent,
-      @NonNull Switch roundUpSwitch, @NonNull TextView serviceQuestion,
+      @NonNull SwitchMaterial roundUpSwitch, @NonNull TextView serviceQuestion,
       @NonNull RadioGroup tipOptions, @NonNull TextView tipResult) {
     this.rootView = rootView;
     this.calculateButton = calculateButton;
     this.costOfService = costOfService;
+    this.costOfServiceEditText = costOfServiceEditText;
+    this.iconCostOfService = iconCostOfService;
+    this.iconRoundUp = iconRoundUp;
+    this.iconServiceQuestion = iconServiceQuestion;
     this.optionEighteenPercent = optionEighteenPercent;
     this.optionFifteenPercent = optionFifteenPercent;
     this.optionTwentyPercent = optionTwentyPercent;
@@ -102,8 +122,32 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       id = R.id.cost_of_service;
-      EditText costOfService = ViewBindings.findChildViewById(rootView, id);
+      TextInputLayout costOfService = ViewBindings.findChildViewById(rootView, id);
       if (costOfService == null) {
+        break missingId;
+      }
+
+      id = R.id.cost_of_service_edit_text;
+      TextInputEditText costOfServiceEditText = ViewBindings.findChildViewById(rootView, id);
+      if (costOfServiceEditText == null) {
+        break missingId;
+      }
+
+      id = R.id.icon_cost_of_service;
+      ImageView iconCostOfService = ViewBindings.findChildViewById(rootView, id);
+      if (iconCostOfService == null) {
+        break missingId;
+      }
+
+      id = R.id.icon_round_up;
+      ImageView iconRoundUp = ViewBindings.findChildViewById(rootView, id);
+      if (iconRoundUp == null) {
+        break missingId;
+      }
+
+      id = R.id.icon_service_question;
+      ImageView iconServiceQuestion = ViewBindings.findChildViewById(rootView, id);
+      if (iconServiceQuestion == null) {
         break missingId;
       }
 
@@ -126,7 +170,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       id = R.id.round_up_switch;
-      Switch roundUpSwitch = ViewBindings.findChildViewById(rootView, id);
+      SwitchMaterial roundUpSwitch = ViewBindings.findChildViewById(rootView, id);
       if (roundUpSwitch == null) {
         break missingId;
       }
@@ -150,6 +194,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((ConstraintLayout) rootView, calculateButton, costOfService,
+          costOfServiceEditText, iconCostOfService, iconRoundUp, iconServiceQuestion,
           optionEighteenPercent, optionFifteenPercent, optionTwentyPercent, roundUpSwitch,
           serviceQuestion, tipOptions, tipResult);
     }

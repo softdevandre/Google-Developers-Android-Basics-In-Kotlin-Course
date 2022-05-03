@@ -67,7 +67,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="$USER_HOME$/Downloads/ic_launcher_background.xml" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/app/src/main/res/launcher-icons/ic_launcher_background.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -90,7 +90,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="$USER_HOME$/Downloads/ic_launcher_foreground.xml" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/app/src/main/res/launcher-icons/ic_launcher_foreground.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -286,6 +286,42 @@
                                 </PersistentState>
                               </value>
                             </entry>
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="vectorAssetStep">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="clipartAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/store/baseline_store_24.xml" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="outputName" value="ic_store" />
                           </map>
                         </option>
                       </PersistentState>
