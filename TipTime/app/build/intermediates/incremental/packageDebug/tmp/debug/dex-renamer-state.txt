@@ -1,4 +1,0 @@
-#Thu May 05 21:00:21 BRT 2022
-base.0=/home/devandre/AndroidStudioProjects/Google-Developers-Android-Basics-In-Kotlin-Course/TipTime/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
