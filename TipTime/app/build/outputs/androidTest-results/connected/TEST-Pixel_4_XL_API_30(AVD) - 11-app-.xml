@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.tiptime.CalculatorTests" tests="3" failures="0" errors="0" skipped="0" time="9.957" timestamp="2022-05-06T00:03:42" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_4_XL_API_30(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="calculate_18_percent_tip" classname="com.example.tiptime.CalculatorTests" time="3.82" />
+  <testcase name="calculate_15_percent_tip" classname="com.example.tiptime.CalculatorTests" time="2.511" />
+  <testcase name="calculate_20_percent_tip" classname="com.example.tiptime.CalculatorTests" time="3.015" />
+</testsuite>
